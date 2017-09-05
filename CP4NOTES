@@ -5,3 +5,7 @@ The declaration looks like the following: <!DOCTYPE html>
 The docuemnt type declaration must always be the first line of code in an HTML docuemnt. 
 Even if its forgotten, the HTML document will still work though it's risky
 After the Document Type Declaration add opening and closing (<html></html>) HTML tags.
+You can add titles to your web page using the <title> element. 
+Before we can add content that a browser will display, we have to add a body to the HTML file. 
+Only content inside the opening and closing body tags can be displayed to the screen.
+Once the file has a body, many different types of content – including text, images, and buttons – can be added to the body.
